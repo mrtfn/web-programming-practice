@@ -3,15 +3,12 @@
 
 # Deployed (yet) Projects :
 ## 1. Beginners :
-  1. Product-show-case :
+  1. Product Show Case :
    * [Preview](https://mrtfn.github.io/web-programming-practice/product-showcase/)
-   * [Codes](../web-programming-practice/product-showcase/)
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+   * [Codes](https://github.com/mrtfn/web-programming-practice/tree/main/product-showcase)
+  2. Choosing Car Type :
+   * [Preview](https://mrtfn.github.io/web-programming-practice/choosing-car-type/)
+   * [Codes](https://github.com/mrtfn/web-programming-practice/tree/main/choosing-car-type)
 
 ## Planned Features:
 
