@@ -1,6 +1,18 @@
 # web-programming-practice
 🚀 Welcome to the evolving "Web Programming Practices" repository! This collection is your future go-to resource for honing web development skills.
 
+# Deployed (yet) Projects :
+## 1. Beginners :
+  1. Product-show-case :
+   * [Preview](https://mrtfn.github.io/web-programming-practice/product-showcase/)
+   * [Codes](../web-programming-practice/product-showcase/)
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+
 ## Planned Features:
 
 - **Diverse Examples:** Explore HTML, CSS, and JavaScript.
