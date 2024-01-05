@@ -104,3 +104,34 @@ button {
 button:hover {
   background-color: var(--hover-Dark-cyan);
 }
+
+@media screen and (max-width: 650px) {
+  .container {
+    width: 95%;
+    max-width: 350px;
+    flex-direction: column;
+  }
+
+  .content{
+    gap: 10px;
+    padding: 15px;
+  }
+  
+  .img,
+  .content {
+    width: 100%;
+  }
+
+  img {
+    height: 300px;
+    object-fit: cover;
+  }
+
+  h1{
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}
